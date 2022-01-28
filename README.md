@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 </div>
 </div>
 ### :woman_technologist: About Me :
-I am a Front End Developer and XR enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cameroon.
+
+I am a Front End Developer and XR enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Cameroon.
 
 - :seedling: Exploring and Designing cool User Interfaces.
 
