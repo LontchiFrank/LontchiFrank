@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 I am a Front End Developer and XR enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cameroon.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring and Designing cool User Interfaces.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles and also like to watch movies.
 
 ### :hammer_and_wrench: Languages and Tools :
 
