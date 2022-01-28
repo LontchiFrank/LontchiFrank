@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif?cid=ecf05e47a4nyvxpjyqqyihz4y8tzjcs987izo3hteusu143x&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media3.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif?cid=ecf05e47a4nyvxpjyqqyihz4y8tzjcs987izo3hteusu143x&rid=giphy.gif&ct=s" width="100" height:"100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/fodjo-frank-38a458221/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
