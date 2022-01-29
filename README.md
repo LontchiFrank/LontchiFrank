@@ -31,6 +31,7 @@ I am a Front End Developer and XR enthusiast <img src="https://media.giphy.com/m
 - :seedling: Exploring and Designing cool User Interfaces.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles and also like to watch movies.
+- 🎈 Also biblliophile
 
 ### :hammer_and_wrench: Languages and Tools :
 
