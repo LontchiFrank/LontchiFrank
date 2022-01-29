@@ -24,13 +24,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 </div>
-### :woman_technologist: About Me :
+ :woman_technologist: About Me :
 
 I am a Front End Developer and XR enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Cameroon.
 
 - :seedling: Exploring and Designing cool User Interfaces.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles and also like to watch movies.
+- :zap: In my free time, I study alogorithms data Structure and read tech articles and also like to watch movies.
 - 🎈 Also biblliophile
 
 ### :hammer_and_wrench: Languages and Tools :
