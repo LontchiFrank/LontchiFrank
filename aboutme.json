@@ -1,0 +1,18 @@
+{
+  "workat": {
+    "title": "Hi there, I'm Franky!",
+    "content": ["I am an Intern at Ornalabs, based in USA.\n\nI have joined Intellial in 2022."]
+  },
+  "aboutWork": {
+    "title": "What I do at IOrnalabs",
+    "content": [
+      "Learning how to build VR enviroment using Aframe",
+      "Involvement in development of the core framework to increase faster development.",
+    ]
+  },
+  "currentWork": {
+    "title": "What am I currently working on?",
+    "content": ["On ERP Product which is specially targeted for Electronics and High Tech Manufacturing industry"]
+  },
+
+}
