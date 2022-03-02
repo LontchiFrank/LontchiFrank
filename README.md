@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
  :woman_technologist: About Me :
 
-I am a RFront End Web Developer and WebXR enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Cameroon.
+I am a Front End Web Developer and WebXR enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Cameroon.
 
 - :seedling: Exploring and Designing cool User Interfaces.
 
