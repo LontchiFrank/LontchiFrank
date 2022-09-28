@@ -31,7 +31,7 @@ I am a Front End Web Developer and WebXR enthusiast <img src="https://media.giph
 - :seedling: Exploring and Designing cool User Interfaces.
 
 - :zap: In my free time, I study alogorithms data Structure and read tech articles and also like to watch movies.
-- 🎈 Also biblliophile
+- 🎈 Also biblliophile and love watching movies
 
 ### :hammer_and_wrench: Languages and Tools :
 
