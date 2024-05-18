@@ -31,7 +31,7 @@ I am a MERN stack Web Developer and WebXR enthusiast <img src="https://media.gip
 - :seedling: Exploring and Designing cool User Interfaces.
 
 - :zap: In my free time, I study alogorithms data Structure and read tech articles and also like to watch movies.
-- 🎈 Also biblliophile and love watching movies
+- 🎈 Also biblliophile.
 
 ### :hammer_and_wrench: Languages and Tools :
 
