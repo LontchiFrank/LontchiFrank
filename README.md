@@ -29,7 +29,7 @@ My work includes business websites, management interfaces and authentication exp
 | **Personal portfolio** | Next.js and TypeScript interface with animated sections, project showcases and filterable credentials. | [Code](https://github.com/LontchiFrank/my-portfolio) · [Live site](https://my-portfolio-fawn-omega-32.vercel.app/) |
 | **DivineTech** | A company website presenting software services through a Next.js interface. | [Code](https://github.com/LontchiFrank/Divinetech) · [Live site](https://divinetech.vercel.app/) |
 | **Fodjo Resto** | A restaurant management application: explore the interface and organisation of business workflows. | [Code](https://github.com/LontchiFrank/Fodjo_Resto) |
-| **KidSecure** | A research prototype exploring graphical authentication for children, with React, TypeScript and a Node.js backend. | [Code & project documentation](https://github.com/LontchiFrank/KidSecure-Complete-App) |
+| **KidSecure** | A fork of a graphical authentication research prototype for children, with React, TypeScript and a Node.js backend. | [Code & project documentation](https://github.com/LontchiFrank/KidSecure-Complete-App) |
 
 ## 🛡️ Security operations & defensive security
 
@@ -41,9 +41,9 @@ I'm developing my SOC analyst skills through cybersecurity study, Microsoft Lear
 | **Incident response concepts** | Completed training on mitigating incidents, remediating threats and configuring Defender for Endpoint automation. |
 | **Identity & cloud security** | Training in Microsoft Entra ID, Identity Protection, Azure access management and Defender for Cloud security posture. |
 | **Defensive analysis** | [Fraudprobe](https://github.com/LontchiFrank/Fraudprobe): a Python project for evaluating fraud classifiers against adversarial transaction mutations, with a CLI and web dashboard. |
-| **Application security & usability** | [KidSecure](https://github.com/LontchiFrank/KidSecure-Complete-App): a graphical authentication research prototype connecting interface design with authentication controls. |
+| **Application security & usability** | [KidSecure](https://github.com/LontchiFrank/KidSecure-Complete-App): a fork of a graphical authentication research prototype connecting interface design with authentication controls. [Original project](https://github.com/iaki1206/KidSecure-Complete-App). |
 
-**Explore my security work:** [Fraudprobe](https://github.com/LontchiFrank/Fraudprobe) · [KidSecure](https://github.com/LontchiFrank/KidSecure-Complete-App) · [Microsoft Learn achievements](https://learn.microsoft.com/en-us/users/fodjofrank-1353/)
+**Explore security projects & learning:** [Fraudprobe](https://github.com/LontchiFrank/Fraudprobe) · [KidSecure](https://github.com/LontchiFrank/KidSecure-Complete-App) · [Microsoft Learn achievements](https://learn.microsoft.com/en-us/users/fodjofrank-1353/)
 
 ## 🎓 Credentials & continued learning
 
