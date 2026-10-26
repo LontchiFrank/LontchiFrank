@@ -1,70 +1,62 @@
+<div align="center">
 
-<!--
-**LontchiFrank/LontchiFrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Frank Fodjo 👋
 
-Here are some ideas to get you started:
+### Frontend Developer · Building toward SOC Analyst roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif?cid=ecf05e47a4nyvxpjyqqyihz4y8tzjcs987izo3hteusu143x&rid=giphy.gif&ct=s" width="100" height:"100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/fodjo-frank-38a458221/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/FodjoFrank1">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-</div>
- :woman_technologist: About Me :
+**Building intuitive web experiences. Developing the skills to investigate and defend them.**
 
-Hi, I'm Frank Fodjo 👋
-Software Engineer | Frontend & Full-Stack Development | Cybersecurity | AI-Enabled Applications
+[Portfolio](https://my-portfolio-fawn-omega-32.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fodjo-frank-38a458221/) · [Email](mailto:fodjolontchifrank@gmail.com) · [CV](https://github.com/LontchiFrank/my-portfolio/blob/main/public/FrankFodjo_CV.pdf)
 
-I'm a software engineer with 4+ years of commercial experience building modern, scalable web applications and digital products.
-
-My core expertise is in JavaScript, TypeScript, React, Next.js, Python and Node.js, with experience working across fintech, SaaS, e-commerce, and business platforms. I enjoy transforming complex requirements into reliable, intuitive, and high-performance software.
-
-I'm also currently pursuing an MSc in Cyber Security, combining my software engineering background with a growing focus on secure systems, ethical hacking, application security, and AI security.
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://blog.teamtreehouse.com/wp-content/uploads/2015/05/87a5a0fdc86455c3f94b0b0eebfdb1b9_400x400.png" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa62eb49bsXKvUm8fzxqacVBUVGxEGhr5VfgmwKYS-zH60cQaDT2SHzpw&s=10" title="Figma" **alt="Figma" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />&nbsp;
-  <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" title="Figma" **alt="Figma" width="40" height="40"/>
- 
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LontchiFrank&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LontchiFrank&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+I'm a UK-based software engineer with **4+ years of commercial experience** building web applications, currently pursuing an **MSc in Cyber Security**. My background spans fintech, SaaS, e-commerce and business platforms.
 
+I bring a developer's understanding of applications to my growing focus on security operations: how systems behave, how failures surface, and how to communicate technical findings clearly.
 
+**Interested in Frontend Developer opportunities and entry-level SOC Analyst roles.**
 
+## ⚡ Frontend development
 
-<!-- 
-<iframe src="https://giphy.com/embed/fvx95jkua5th3YeThr" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/KIBERone-kiberone-kiber-kiber-one-fvx95jkua5th3YeThr">via GIPHY</a></p> -->
+**React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · Redux**
 
+My work includes business websites, management interfaces and authentication experiences. I focus on clear user journeys, reusable components and responsive layouts, with supporting experience in Node.js, Python, REST APIs and databases.
+
+| Selected work | What to explore | Links |
+| :--- | :--- | :--- |
+| **Personal portfolio** | Next.js and TypeScript interface with animated sections, project showcases and filterable credentials. | [Code](https://github.com/LontchiFrank/my-portfolio) · [Live site](https://my-portfolio-fawn-omega-32.vercel.app/) |
+| **DivineTech** | A company website presenting software services through a Next.js interface. | [Code](https://github.com/LontchiFrank/Divinetech) · [Live site](https://divinetech.vercel.app/) |
+| **Fodjo Resto** | A restaurant management application: explore the interface and organisation of business workflows. | [Code](https://github.com/LontchiFrank/Fodjo_Resto) |
+| **KidSecure** | A research prototype exploring graphical authentication for children, with React, TypeScript and a Node.js backend. | [Code & project documentation](https://github.com/LontchiFrank/KidSecure-Complete-App) |
+
+## 🛡️ Security operations & defensive security
+
+I'm developing my SOC analyst skills through cybersecurity study, Microsoft Learn training and security-focused projects.
+
+| Focus | Training and project evidence |
+| :--- | :--- |
+| **Threat detection & investigation** | Completed Microsoft Learn training covering Microsoft Sentinel analytics, Defender XDR and Defender for Endpoint investigations. |
+| **Incident response concepts** | Completed training on mitigating incidents, remediating threats and configuring Defender for Endpoint automation. |
+| **Identity & cloud security** | Training in Microsoft Entra ID, Identity Protection, Azure access management and Defender for Cloud security posture. |
+| **Defensive analysis** | [Fraudprobe](https://github.com/LontchiFrank/Fraudprobe): a Python project for evaluating fraud classifiers against adversarial transaction mutations, with a CLI and web dashboard. |
+| **Application security & usability** | [KidSecure](https://github.com/LontchiFrank/KidSecure-Complete-App): a graphical authentication research prototype connecting interface design with authentication controls. |
+
+**Explore my security work:** [Fraudprobe](https://github.com/LontchiFrank/Fraudprobe) · [KidSecure](https://github.com/LontchiFrank/KidSecure-Complete-App) · [Microsoft Learn achievements](https://learn.microsoft.com/en-us/users/fodjofrank-1353/)
+
+## 🎓 Credentials & continued learning
+
+- **Skyscanner / Forage — Front-End Software Engineering Job Simulation:** [View certificate](https://github.com/LontchiFrank/my-portfolio/blob/main/public/credentials/skyscanner-forage-certificate.pdf)
+- **Google Cloud skill badges:** app development environments, website deployment, cloud storage, data protection and networking. [Verify on Credly](https://www.credly.com/users/fodjo-frank/badges/credly)
+- **Microsoft Learn:** completed modules and learning paths in threat protection, identity and cloud security. [View achievement profile](https://learn.microsoft.com/en-us/users/fodjofrank-1353/)
+
+Microsoft Learn achievements represent completed training modules and learning paths; they are separate from professional certifications.
+
+---
+
+### Let's connect
+
+Looking for a React / Next.js developer, or recruiting for an entry-level SOC analyst with a software engineering background?
+
+**[Email me](mailto:fodjolontchifrank@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/fodjo-frank-38a458221/)** · **[Explore my portfolio](https://my-portfolio-fawn-omega-32.vercel.app/)**
